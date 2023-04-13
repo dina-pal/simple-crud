@@ -1,4 +1,4 @@
-# SIMPLE CRUD 
+# SIMPLE CRUD 🟩🍣
 ## SIMPLE CRUD is a Simple MERN stack Project
 
 Simple crud is a Practice project for MERN stack development. 
